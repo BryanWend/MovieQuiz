@@ -101,7 +101,7 @@ namespace TriviaNow
                 answerThreeRadioButton.Text = quizQuestions[currentQuestion].AnswerThree;
                 answerFourRadioButton.Text = quizQuestions[currentQuestion].AnswerFour;
                 submitButton.Text = "&Submit";
-                selectedRadioButton.Checked = false;
+                //selectedRadioButton.Checked = false;
                 //backgroundMusic.PlayLooping();
 
             }
